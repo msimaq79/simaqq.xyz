@@ -1,0 +1,11 @@
+{
+  "name": "simaqq",
+  "compatibility_date": "2026-11-10",
+  "workers_dev": false,
+  "assets": {
+    "directory": "."
+  },
+  "routes": [
+    { "pattern": "simaqq.xyz/*", "zone_name": "simaqq.xyz" }
+  ]
+}
