@@ -6,6 +6,7 @@
     "directory": "."
   },
   "routes": [
-    { "pattern": "simaqq.xyz/*", "zone_name": "simaqq.xyz" }
+    { "pattern": "simaqq.xyz/*", "zone_name": "simaqq.xyz" },
+    { "pattern": "www.simaqq.xyz/*", "zone_name": "simaqq.xyz" }
   ]
 }
